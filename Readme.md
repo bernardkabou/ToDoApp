@@ -53,16 +53,6 @@ com.example.todo
 
 ---
 
-## 📦 Installation
-
-1. Cloner le projet :
-   ```bash
-   git clone https://github.com/tonpseudo/ton-projet.git
-2. 	Ouvrir dans Android Studio
-3. 	Lancer l’application sur un émulateur ou un téléphone Android
-
-
-
 
 👤 Auteur
 Bernard Daniel Kabou
